@@ -1,0 +1,14 @@
+3D objects
+Bar plots
+Block diagram
+Combined images
+Confusion matrix
+Flow chart
+Graph plots
+Heat map
+Mask
+Medical images
+Natural images
+Scatter plot
+Sketches
+Tables
